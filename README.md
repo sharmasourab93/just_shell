@@ -65,9 +65,7 @@ The following are the keywords which cannot be used for declaring variables.
 30. `exit`
 
 
-# Introduction 
-
-
+## Comments in Shell Script
 ### Using \# for Comments
 
 
