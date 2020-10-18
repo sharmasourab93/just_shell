@@ -88,3 +88,10 @@ A # here does not begin a comment
 A # here does not begin a comment
 The
 ```
+
+
+<hr>
+
+### Resources 
+
+All relevant resources are available here: [resources](resources/)  
